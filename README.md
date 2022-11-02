@@ -5,7 +5,7 @@ Integração python com SQL
   - TKinter
   
 ## Bibliotecas Usadas:
-   = pyodbc
+    - pyodbc
    
     - dados_conexao = ('Driver={SQLite3 ODBC Driver};'
                  'Server=localhost;'
