@@ -6,6 +6,7 @@ Integração python com SQL
   
 ## Bibliotecas Usadas:
    = pyodbc
+   
     - dados_conexao = ('Driver={SQLite3 ODBC Driver};'
                  'Server=localhost;'
                  'Database=Estoque.db')
